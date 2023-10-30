@@ -1,3 +1,6 @@
+// Available at https://github.com/ofbartels/os-ofbartels/tree/main/Assignments/threads-assignment
+
+
 #include <iostream>
 #include <cstring>
 #include <cstdlib>
